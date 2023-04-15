@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202304142326.md",
+                "file": "React/Пример реализации проверки доступа на клиенте с использованием ролей на React..md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202304142326.md",
+                "file": "React/Пример реализации проверки доступа на клиенте с использованием ролей на React..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202304142326.md",
+                "file": "React/Пример реализации проверки доступа на клиенте с использованием ролей на React..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202304142326.md"
+                "file": "React/Пример реализации проверки доступа на клиенте с использованием ролей на React..md"
               }
             }
           }
@@ -143,10 +143,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e0fa67851ec6fbfe",
+  "active": "98bcbc0fde7ce336",
   "lastOpenFiles": [
+    "nodeJs",
+    "React/Optimize Your React App’s Performance.md",
+    "React",
+    "React/Пример реализации проверки доступа на клиенте с использованием ролей на React..md",
+    "React/debug Hook in react.md",
+    "JWT для аутентификации пользователя  на сервере.md",
+    "202304142326.md",
     "README.md",
-    "2023-04-14.md",
-    "202304142326.md"
+    "useEffect и классы.md",
+    "Состояние и жизненный цикл.md",
+    "Авторизация и аутентификация пользователя.md",
+    "2023-04-14.md"
   ]
 }
